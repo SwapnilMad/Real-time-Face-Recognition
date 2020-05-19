@@ -18,7 +18,7 @@ Clone or download the project to your system
 <img src="rd_img/hierarchy.png" width='50%'>
 
 <h4>Running</h4>
-<p>FaceTrain.py</p><pre>Add subfolders with label as folder names. Add Images to train and test in this subfolders</pre>
+<p>FaceTrain.py</p><pre>Add subfolders with label as folder names in images folder. Add images to train and test in this subfolders</pre>
 <p>Custom.py</p><pre>Captures training images in real time and stores in FOLDER_NAME, Change FOLDER_NAME to label</pre>
 <p>ModelTrain.py</p><pre>Trains the model using Keras VGG16</pre>
 <p>FaceRecognition.py</p><pre>A frontend video frame which recognizes faces in real time</pre>
