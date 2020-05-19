@@ -16,6 +16,7 @@ Clone or download the project to your system
  
 <h4>File Strucure</h4>
 <img src="rd_img/hierarchy.png" width='50%'>
+<p>Create Folders images and train as shown in File Structure</p>
 
 <h4>Running</h4>
 <p>FaceTrain.py</p><pre>Checks all the files in the subfolders of images folder and saves the detected faces in train folder. This faces are saved in respective label subfolders in train folder and is used to train and test the model</pre>
